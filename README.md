@@ -1,7 +1,7 @@
 # massively-parallel
 A growing list of resources, exercises, and experimentation related to starting parallel processing, ultimately to write fast implementations of large ML/AI models.
-<br>These are also my notes for where I'm at on them.
-<br>You *probably* only need a basic understanding of python to start with any of these.
+These are also my notes for where I'm at on them. <br><br>
+You *probably* only need a basic understanding of python to start with any of these.
 
 - [GPU-Puzzles (Numba - Python syntax for CUDA)](https://github.com/philipbutler/GPU-Puzzles/tree/new_tests): My fork of [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles): 14 GPU puzzles in a Colab notebook. I altered the first couple tests because a beginner can easily pass several on accident before realizing they're wrong (like myself). When I revisit this I'll continue those tests for more. As of writing, I've worked up to and still am working on Puzzle 13, because I'm too stuborn and only want to use the [walkthrough](https://www.youtube.com/watch?v=K4T-YwsOxrM) to check my answers.
 
