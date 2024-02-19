@@ -1,5 +1,5 @@
 # massively-parallel
-Aiming to be collection of resources, exercises, and experimentation related to starting parallel processing, ultimately to write fast implementations of large ML/AI models.
+A growing list of resources, exercises, and experimentation related to starting parallel processing, ultimately to write fast implementations of large ML/AI models.
 These are also my notes for where I'm at on them.
 You *probably* only need a basic understanding of python to start with any of these.
 
