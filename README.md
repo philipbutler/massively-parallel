@@ -16,9 +16,13 @@ Selected Resources:
 
 - [Getting Started With CUDA for Python Programmers](https://www.youtube.com/watch?v=4sgKnKbR-WE): Jeremy Howard teaching an introductory lesson as a part of the [CUDA MODE](https://github.com/cuda-mode) lecture series. I'm only about 10 minutes in, but I realized that I wanted a better way of keeping track of where I'm at in this parallel processing [eventually large ML models] journey, and paused to make this repo. This lecuture aims to set you up well to work thorough the PMPP book (next).
 
-## Journal:
+More:
+- [Awesome GPU Resources](https://github.com/Jokeren/Awesome-GPU): Resources, mostly papers, on [GPU] architecture, algorithms, applications, tools, runtime, & code generation.
 
-- 3/20/24: Hoping to watch [Lecture 2](https://www.youtube.com/watch?v=NQ-0D5Ti2dc), and see how far along I can Read & do the exercises of chapter 2. I plan to update this bullet tonight
+## Journal:
+- 3/22/24: In the morning finished chapter 2 and working on the exercises now. Will finish chapter 3 and probably skim/skip Lecture 2, and today I at least want to upload a CUDA C++ vector addition program whether in the Colab notebook format like in JH's lecture, or if I'm really ambitious, get CUDA set up on my PC and run it locally. I think I set it up but never actually wrote/ran anything so idk. Will update this entry tonight.
+- 3/21/24: Started Lecture 2 then realized it's a recap of chapters 1-3. Read most of chapter 2 before bed.
+- 3/20/24: Hoping to watch [Lecture 2](https://www.youtube.com/watch?v=NQ-0D5Ti2dc), and see how far along I can Read & do the exercises of chapter 2.
 - 3/19/24: Read parts of the preface and through most of Chapter 1 of PMPP. Thanks to my annotation system I got going on, I see I read 1.1, and skimmed the rest. I'm eager to get to more of the meat, and have indicated where I could go back to read more thoroughly.
 Pointing out from "Preface/A two-phased approach":
   - Most chapters designed to be covered in 1 75-min lecture, with 11 14 & 15 might needing 2.
