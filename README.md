@@ -21,6 +21,7 @@ More:
 - [Awesome GPU Resources](https://github.com/Jokeren/Awesome-GPU): Resources, mostly papers, on [GPU] architecture, algorithms, applications, tools, runtime, & code generation.
 
 ## Journal:
+- to do: add entries about experiments for sparsity & torchao
 - 4/5/24: Finally finished Ch3 exercise 1. a & b 🥳. I was hesitant to draw a picture, thinking I shouldn't need to, but honestly not only did it make it so much easier, but I think my understanding is better after having drawn it. I have a 12" iPad Pro, but straight up nothing beats a pencil and sketch notebook. I truly wonder if I'll ever get as comfortable on a tablet. It's noon now, going on a last training run with my brother (we're running in a 10K in 2 days), and going go-karting with the homies around 6:30pm. That gives me between maybe 1:30pm-6pm to finish 2 & 5, no problem😼
 - 4/4/24: I stripped down Lecture 3 starter code [(here)](https://colab.research.google.com/drive/15mWl0pvuyrriqFEnf1py7TlI9suRsesS?usp=sharing), going to now use this as a starting point for all the PMPP exercises
 - 3/27 - 4/2: BS interview, recovered from cold & frustration, continued training for 10k, bowled with the homies, funeral & lecture 12 on flash attention, work all day Sunday-Tuesday.
