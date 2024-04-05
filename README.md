@@ -3,7 +3,7 @@ A growing list of resources, exercises, and experimentation related to starting 
 These are also my notes for where I'm at on them, and my public journal for my learning process. <br><br>
 
 PMPP:
-- [Buy the Programming Massively Parallel Processors book](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311) if you have money to spend, or just [download the pdf](https://dokumen.pub/programming-massively-parallel-processors-a-hands-on-approach-4nbsped-9780323912310.html) if you don't.
+- [Buy the Programming Massively Parallel Processors book](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311).
 
 GPU Puzzles:
 - [The original GPU-Puzzles (Numba - Python syntax for CUDA)](https://github.com/philipbutler/GPU-Puzzles/tree/new_tests): My fork of [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles): 14 GPU puzzles in a Colab notebook. I altered the first couple tests because a beginner can easily pass several on accident before realizing they're wrong (like myself). When I revisit this I'll continue those tests for more. As of writing, I've worked up to and still am working on Puzzle 13, because I'm too stuborn and only want to use the [walkthrough](https://www.youtube.com/watch?v=K4T-YwsOxrM) to check my answers.
