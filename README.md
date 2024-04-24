@@ -21,6 +21,7 @@ More:
 - [Awesome GPU Resources](https://github.com/Jokeren/Awesome-GPU): Resources, mostly papers, on [GPU] architecture, algorithms, applications, tools, runtime, & code generation.
 
 ## Journal:
+- 4/23/24: Finished reading & exercises for Chapter 6, Part I complete 😎
 - 4/22/24: Started Chapter 6, the last chapter of Part I which is on fundamentals. As of writing, I just read 6.1 on Memory coalescing. Thoughts: Thinking about warps, I suppose the max amount of memory that can be part of a coalesced access is the max threads per warp (generally 32) * max number of warps in an SM that can run simutaneously? Can threads part of different warps make use of access bursts?
 - 4/20/24: Finished Chapter 5 exercises. Helped record & edit Lecture 15 on CUTLASS!
 - 4/11/24: Finished Chapter 4 exercises. Still need a way to check them.
