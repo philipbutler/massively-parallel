@@ -25,7 +25,8 @@ More:
 
 I have a lofty goal of getting a working fork of [llm.c](https://github.com/karpathy/llm.c/blob/12da2c16cc996f3049a81f8bd4608589d77026f0/train_gpt2.c#L922) to this (then a loftier goal of writing a CUDA kernel for it), but I'm working on understanding the [torch implementation of AdamW (or SDG)](https://pytorch.org/docs/stable/generated/torch.optim.AdamW.html#torch.optim.AdamW), so I can then better understand the [schedule-free](https://github.com/facebookresearch/schedule_free/blob/main/schedulefree/adamw_schedulefree.py) version.
 
-Later, going to help record today's regularly scheduled CUDA MODE lecture, \n
+Later, going to help record today's regularly scheduled CUDA MODE lecture,
+
 & lastly, gonna celebrate my 2-year anniversary with my wife❤️‍🔥
 
 - 4/26/24: I helped out recording a bonus lecture on CCCL, I believe basically libraries that make writing production CUDA C++ doable. Edited & shared a link for Mark to upload
